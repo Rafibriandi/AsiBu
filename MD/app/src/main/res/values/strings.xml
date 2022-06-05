@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ASiBu</string>
+    <string name="appRealName">Anti Siber Bully</string>
+    <string name="title_activity_tes">tes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="menu_education">Education</string>
+    <string name="string_input">Enter a Word !</string>
+    <string name="input_submit">submit</string>
+    <string name="education_header_text">What to know about cyberbullying?</string>
+    <string name="cyberbully_definition">Cyberbullying Definition</string>
+    <string name="cyberbully_sign_header">Sign if you are cyberbully</string>
+    <string name="cyberbullied_sign_header">Sign if you are being cyberbullied</string>
+    <string name="cyberbully_prevention_header">cyberbully prevention</string>
+    <string name="dealing_with_cyberbully_header">dealing with cyberbully</string>
+    <string name="cyberbully_defintition_text"> Cyberbullying is bullying that takes place over digital devices like cell phones, computers, and tablets. Cyberbullying can occur through SMS, Text, and apps, or online in social media, forums, or gaming where people can view, participate in, or share content. </string>
+    <string name="cyberbully_definition_text_hyperlink"> <a href="https://www.stopbullying.gov/cyberbullying/what-is-it">Learn More</a></string>
+    <string name="cyberbully_sign_text">1.Generally have the intention of creating harm to people\n\n2.Repeating actions on the part of the bully\n\n3.Feeling the power imbalance between the perpetrator and the victim\n\n4.Prefer to do it anonymously\n\n5.Involves the use of publicity</string>
+    <string name="cyberbully_sign_text_hyperlink"> <a href = "https://www.verywellmind.com/the-psychology-of-cyberbullying-5086615">Learn More</a></string>
+    <string name="cyberbullied_sign_text">1.Decrease in device usage\n\n2.Sudden withdrawal from social media\n\n3.Reluctance for activites\n\n4.Emotional changes\n\n5.Unwillingness to communicate</string>
+    <string name="cyberbullied_sign_text_hyperlink"><a href = "https://learnsafe.com/5-signs-of-cyberbullying/">Learn More</a></string>
+    <string name ="cyberbully_prevention_text"> 1.Protect accout and devices\n\n2.Use privacy tools and settings\n\n3.Keep personal stuff private\n\n4.Manage location sharing\n\n5.Educate person to think before posting\n\n6.Conduct a social media audit\n\n7.Log out when using public devices\n\n8.Refuse to respond cyberbullies\n\n9.Report cyberbullies </string>
+    <string name="cyberbully_prevention_text_hyperlink"><a href = "https://www.verywellfamily.com/how-to-prevent-cyberbullying-5113808">Learn More</a></string>
+    <string name="cyberbully_dealing_text"> 1.Do not respond immediately\n\n2.Follow up when you are calmer\n\n3.Take screenshots\n\n4.Try to stop frequently checking posts\n\n5.Report and block</string>
+    <string name="cyberbully_dealing_text_hyperlink"><a href = "https://au.reachout.com/articles/5-strategies-for-dealing-with-cyberbullying">Learn More</a></string>
+    <string name="cyberbully_advice_negative">This sentence might be harmful to other people.Changing to more polite words would be better</string>
+    <string name="cyberbully_advice_positive">Keep positive</string>
+</resources>

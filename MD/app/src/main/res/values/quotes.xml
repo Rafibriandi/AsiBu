@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quotes">
+        <item>
+        “No one heals himself by wounding another.”
+        </item>
+        “Cyber bullying is bullying. Hiding behind a pretty screen doesn’t make it any less hateful.”
+        <item>
+        “Knowing what’s right doesn’t mean much unless you do what’s right.”
+        </item>
+        “I would rather be a little nobody than to be an evil somebody.”
+        <item>
+        “Life is a fight, but not everyone’s a fighter. Otherwise, bullies would be an endangered species.”
+        </item>
+        “Courage is fire, and bullying is smoke.”
+        <item>
+        “Bullying is a horrible thing. It sticks with you forever. It poisons you. But only if you let it.”
+        </item>
+        “Bullying builds character like nuclear waste creates superheroes. It’s a rare occurrence and often does much more damage than endowment.”
+        <item>
+         “Never do a wrong thing to make a friend – or keep one.”
+        </item>
+
+        <item>
+         “Cyber Bullies kill people’s soul.“
+        </item>
+
+
+
+    </string-array>
+</resources>
