@@ -6,53 +6,64 @@
     android:layout_height="match_parent"
     tools:context=".ResultActivity"
     android:orientation="vertical"
-    android:background="@color/cardview_dark_background">
+    android:background="@color/Raspberry">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="100dp"
-        android:textSize="60sp"
-        android:textColor="#FFFF00"
-        android:textStyle="bold"
+        android:layout_marginTop="70dp"
+        android:fontFamily="@font/curse_casual"
         android:gravity="center_horizontal"
+        android:text="RESULT"
+        android:textColor="#FFFF00"
+        android:textSize="60sp"
+        android:textStyle="bold" />
 
-        android:text="RESULT"/>
 
+    <!--        android:background="@drawable/rounded_button"-->
+
+
+    <ImageView
+        android:id="@+id/result_image"
+        android:layout_width="178dp"
+        android:layout_height="121dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+
+        />
 
     <TextView
         android:id="@+id/result_category"
-        android:layout_marginTop="60dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
+        android:layout_marginTop="60dp"
         android:layout_marginEnd="20dp"
+        android:fontFamily="@font/madjoe"
         android:gravity="center"
-        android:textSize="50sp"
-        android:textStyle="bold"
-        />
-<!--        android:background="@drawable/rounded_button"-->
-
+        android:textSize="80sp"
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/result_description"
         style="@style/WhiteText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="40dp"
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
+        android:fontFamily="@font/curse_casual"
         android:textAlignment="center"
         android:textSize="30sp" />
 
 
     <Button
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="50dp"
         android:id="@+id/home_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="150dp"
-        android:layout_marginLeft="50dp"
+        android:layout_marginLeft="40dp"
         android:text="home" />
 
 </LinearLayout>

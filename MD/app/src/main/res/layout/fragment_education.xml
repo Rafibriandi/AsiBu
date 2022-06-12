@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ui.Education.EducationFragment"
-    android:background="@color/cardview_dark_background">
+    android:background="@color/Raspberry">
 
 
     <LinearLayout
@@ -15,7 +15,7 @@
         android:orientation="vertical">
 
         <ImageView
-            android:layout_marginTop="50dp"
+            android:layout_marginTop="70dp"
             android:layout_width="match_parent"
             android:layout_height="150dp"
             android:src="@drawable/book" />
@@ -37,6 +37,7 @@
             android:layout_marginTop="50dp"
             android:layout_marginEnd="50dp"
             android:drawableLeft="@drawable/cyberbully_icon_resized"
+            android:background="@color/blue_1"
             android:text="@string/cyberbully_definition"
             android:textAlignment="textStart"
             />
@@ -49,6 +50,7 @@
             android:layout_marginTop="50dp"
             android:layout_marginEnd="50dp"
             android:drawableLeft="@drawable/cyberbully_people_resized"
+            android:background="@color/blue_1"
             android:text="@string/cyberbully_sign_header"
             android:textAlignment="textStart"
             />
@@ -61,6 +63,7 @@
             android:layout_marginTop="50dp"
             android:layout_marginEnd="50dp"
             android:drawableLeft="@drawable/cyberbulied_people_resized"
+            android:background="@color/blue_1"
             android:text="@string/cyberbullied_sign_header"
             android:textAlignment="textStart"/>
 
@@ -72,6 +75,7 @@
             android:layout_marginTop="50dp"
             android:layout_marginEnd="50dp"
             android:drawableLeft="@drawable/cyberbully_prevention_resized"
+            android:background="@color/blue_1"
             android:text="@string/cyberbully_prevention_header"
             android:textAlignment="textStart"/>
 
@@ -83,6 +87,7 @@
             android:layout_marginTop="60dp"
             android:layout_marginEnd="50dp"
             android:drawableLeft="@drawable/cyberbully_dealing_resized"
+            android:background="@color/blue_1"
             android:text="@string/dealing_with_cyberbully_header"/>
 
 

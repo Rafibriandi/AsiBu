@@ -9,4 +9,10 @@
     <color name="white">#FFFFFFFF</color>
     <color name="blue_grotto">#189AB4</color>
     <color name="red">#FF0000</color>
+    <color name="red_d">#D10000</color>
+    <color name="royal_blue">#4169E1</color>
+    <color name="peach">#FFE5B4</color>
+    <color name="Raspberry">#8A307F</color>
+    <color name="blue_1">#70A7D3</color>
+    <color name="blue_2">#6883BC</color>
 </resources>

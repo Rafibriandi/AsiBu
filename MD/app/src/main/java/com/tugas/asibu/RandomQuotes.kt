@@ -1,13 +1,11 @@
 package com.tugas.asibu
 
-import android.annotation.SuppressLint
 import android.content.Intent
-import android.content.res.Resources
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
-import android.view.WindowManager
 import android.widget.TextView
+import com.tugas.asibu.ui.home.HomeActivity
 
 @Suppress("DEPRECATION")
 class RandomQuotes : AppCompatActivity() {

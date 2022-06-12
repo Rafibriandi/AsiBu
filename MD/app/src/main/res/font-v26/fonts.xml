@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+  <font
+      android:font="@font/quote"/>
+  <font
+      android:font="@font/curse_casual"/>
+  <font
+      android:font="@font/madjoe"/>
+  <font
+      android:font="@font/stronger"/>
+  <font
+      android:font="@font/convergence"/>
+  <font
+      android:font="@font/architects_daughter"/>
+</font-family>

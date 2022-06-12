@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ui.Education.EducationExplanationActivity"
-    android:background="@color/cardview_dark_background"
+    android:background="@color/Raspberry"
     android:orientation="vertical">
 
    <LinearLayout
@@ -46,6 +46,8 @@
           android:layout_marginStart="10dp"
           android:textAlignment="textStart"
           android:layout_marginTop="50dp"
+          android:textColor="@color/blue_1"
+          android:fontFamily="@font/convergence"
           android:textSize="25sp"/>
 
       <TextView
@@ -54,6 +56,8 @@
           android:layout_height="wrap_content"
           android:layout_gravity="center"
           android:layout_marginTop="20dp"
+          android:textColor="@color/blue_1"
+          android:fontFamily="@font/convergence"
           android:textSize="20sp"/>
 
 

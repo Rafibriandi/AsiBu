@@ -6,4 +6,8 @@
     <style name="YellowTheme" parent="TextAppearance.AppCompat">
         <item name="android:windowBackground"> #FFFF8A</item>
     </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight">
+
+    </style>
 </resources>

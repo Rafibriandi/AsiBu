@@ -17,4 +17,10 @@
         android:label="Education"
         tools:layout="@layout/fragment_education" />
 
+    <activity
+        android:id="@+id/nav_settings"
+        android:name="com.tugas.asibu.ui.settings.SettingsActivity"
+        android:label="@string/title_activity_settings"
+        tools:layout="@layout/settings_activity"/>
+
 </navigation>

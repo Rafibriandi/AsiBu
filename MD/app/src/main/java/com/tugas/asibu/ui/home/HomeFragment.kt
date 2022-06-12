@@ -8,6 +8,7 @@ import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.view.WindowManager
 import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
@@ -21,6 +22,7 @@ import java.nio.MappedByteBuffer
 import java.nio.channels.FileChannel
 import java.util.*
 
+@Suppress("DEPRECATION")
 class HomeFragment : Fragment() {
 
 
@@ -38,7 +40,10 @@ private var _binding: FragmentHomeBinding? = null
     savedInstanceState: Bundle?
   ): View {
 
-
+      activity?.window?.setFlags(
+          WindowManager.LayoutParams.FLAG_FULLSCREEN,
+          WindowManager.LayoutParams.FLAG_FULLSCREEN
+      )
 
     _binding = FragmentHomeBinding.inflate(inflater, container, false)
     val root: View = binding.root

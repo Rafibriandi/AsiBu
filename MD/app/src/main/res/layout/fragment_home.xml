@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/cardview_dark_background"
+    android:background="@color/Raspberry"
     android:orientation="vertical"
     tools:context=".ui.home.HomeFragment">
 
@@ -13,7 +13,8 @@
         style="@style/WhiteText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="80dp"
+        android:fontFamily="@font/convergence"
         android:gravity="center"
         android:text="@string/string_input"
         android:textSize="50sp"
@@ -26,7 +27,8 @@
         android:layout_gravity="center"
         android:layout_marginTop="100dp"
         android:layout_marginBottom="90dp"
-        android:background="@drawable/rounded_edittext"
+        android:fontFamily="@font/convergence"
+        android:background="@color/blue_1"
         android:textAlignment="center" />
 
     <androidx.appcompat.widget.AppCompatButton
@@ -36,12 +38,9 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="125dp"
         android:layout_marginTop="70dp"
-        android:background="@drawable/rounded_button"
+        android:background="@color/blue_1"
+        android:fontFamily="@font/convergence"
         android:text="@string/input_submit"
         android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/result_text"
-        android:layout_width="match_parent"
-        android:layout_height="150dp" />
 </LinearLayout>

@@ -1,0 +1,16 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <PreferenceCategory>
+
+        <SwitchPreferenceCompat
+            app:key="dark_mode"
+            app:title="Dark Mode"/>
+    </PreferenceCategory>
+
+   <PreferenceCategory>
+       <Preference
+           app:key="about_us"
+           app:title="About Us"/>
+   </PreferenceCategory>
+</PreferenceScreen>
