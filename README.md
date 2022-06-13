@@ -2,7 +2,7 @@
 
 **AsiBu(AntI Siber Bully) is aplication that can be used to detect words or sentences that indicate elements of cyberbullying**
 
-* Machine Learning features are used to detect words and label them according to the model created.This application also uses cloud technology to connect to firebase display remote models and analytics 
+* Machine Learning features are used to train model for detect words and label them according to initiated model label.This application also uses cloud technology to connect to firebase display remote models and analytics 
 
 List of Contributors :
 1. Syahi Dandy Nasgi Nasution (Cloud Computing) 
